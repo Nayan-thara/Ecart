@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Brown Tortoise Full Rim Cat Eye Eyeglasses",
+      "categoryId": 2,
+      "description": "by Lenskart Polarized, UV Protection Round Sunglasses",
+      "price": 2500,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/RFXs1W1b/lenskart-air-la-e11484-s-c1-eyeglasses-G-0119.jpg",
+      "rating": 4.1,
+      "review": 45,
+      "vendorName": "ABC",
+      "warrenty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Amber Full Rim Hustlr Eyeglasses",
+      "categoryId": 1,
+      "description": "Peyush Bansal Shark Tank Amber Full Rim Hustlr Eyeglasses - 206824",
+      "price": 2500,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/0y4JSPJd/peyush-bansal-shark-tank-yellow-transparent-full-rim-square-lenskart-air-air-classic-la-e15417-c2-ey.jpg",
+      "rating": 4.1,
+      "review": 45,
+      "vendorName": "ABC",
+      "warrenty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Monza Red Full Rim Hustlr Eyeglasses",
+      "categoryId": 1,
+      "description": "Peyush Bansal Shark Tank Monza Red Full Rim Hustlr Eyeglasses - 206828",
+      "price": "2901",
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/d3dK5RWV/maroon-full-rim-round-lenskart-air-classic-la-e15417-c6-eyeglasses-g-7280-26-12-2022.jpg",
+      "rating": 4.1,
+      "review": 45,
+      "vendorName": "ABC",
+      "warrenty": "2"
+    },
+    {
+      "id": 5,
+      "productName": "Blue Full Rim Rectangle Kids 5-8 Yrs Hooper",
+      "categoryId": 3,
+      "description": "Blue Block Phone Computer Glasses: Blue Full Rim Rectangle Kids 5-8 Yrs Hooper HP D10009M-C1",
+      "price": 1500,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/85f5V6yq/blue-block-phone-computer-glasses-blue-full-rim-rectangle-kids-5-8-yrs-hooper-hp-d10009m-c1-g-3.jpg",
+      "rating": 4.1,
+      "review": 45,
+      "vendorName": "ABC",
+      "warrenty": 1
+    },
+    {
+      "id": "8",
+      "productName": "HOOPER",
+      "categoryId": "3",
+      "description": "Transparent Full Rim Square Sunglasses",
+      "price": "1299",
+      "isAvailable": "true",
+      "productImage": "https://i.postimg.cc/bNpzkFWD/transparent-grey-solid-full-rim-square-hooper-sunnies-hp-s10115l-c1-sunglasses-g-089512-may-2022.jpg",
+      "rating": "4.2",
+      "review": "23",
+      "vendorName": "ABC",
+      "warrenty": "1"
+    }
+  ]
+}
